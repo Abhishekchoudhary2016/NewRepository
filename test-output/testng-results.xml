@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MySuite" duration-ms="68" started-at="2016-10-19T07:35:35Z" finished-at="2016-10-19T07:35:35Z">
+    <groups>
+    </groups>
+    <test name="MyTest" duration-ms="68" started-at="2016-10-19T07:35:35Z" finished-at="2016-10-19T07:35:35Z">
+      <class name="Abhi.pack.selenium.DemoPriorityTest">
+        <test-method status="PASS" signature="testMethod2()[pri:-1, instance:Abhi.pack.selenium.DemoPriorityTest@36d4b5c]" name="testMethod2" duration-ms="12" started-at="2016-10-19T13:05:35Z" finished-at="2016-10-19T13:05:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method status="PASS" signature="testMethod4()[pri:-1, instance:Abhi.pack.selenium.DemoPriorityTest@36d4b5c]" name="testMethod4" duration-ms="4" started-at="2016-10-19T13:05:35Z" finished-at="2016-10-19T13:05:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method status="PASS" signature="testMethod3()[pri:0, instance:Abhi.pack.selenium.DemoPriorityTest@36d4b5c]" name="testMethod3" duration-ms="3" started-at="2016-10-19T13:05:35Z" finished-at="2016-10-19T13:05:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method status="PASS" signature="testMethod6()[pri:0, instance:Abhi.pack.selenium.DemoPriorityTest@36d4b5c]" name="testMethod6" duration-ms="2" started-at="2016-10-19T13:05:35Z" finished-at="2016-10-19T13:05:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod6 -->
+        <test-method status="PASS" signature="testMethod7()[pri:0, instance:Abhi.pack.selenium.DemoPriorityTest@36d4b5c]" name="testMethod7" duration-ms="1" started-at="2016-10-19T13:05:35Z" finished-at="2016-10-19T13:05:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod7 -->
+        <test-method status="PASS" signature="testMethod8()[pri:0, instance:Abhi.pack.selenium.DemoPriorityTest@36d4b5c]" name="testMethod8" duration-ms="2" started-at="2016-10-19T13:05:35Z" finished-at="2016-10-19T13:05:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod8 -->
+        <test-method status="PASS" signature="testMethod1()[pri:1, instance:Abhi.pack.selenium.DemoPriorityTest@36d4b5c]" name="testMethod1" duration-ms="2" started-at="2016-10-19T13:05:35Z" finished-at="2016-10-19T13:05:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method status="PASS" signature="testMethod5()[pri:1, instance:Abhi.pack.selenium.DemoPriorityTest@36d4b5c]" name="testMethod5" duration-ms="1" started-at="2016-10-19T13:05:35Z" finished-at="2016-10-19T13:05:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod5 -->
+      </class> <!-- Abhi.pack.selenium.DemoPriorityTest -->
+    </test> <!-- MyTest -->
+  </suite> <!-- MySuite -->
+</testng-results>

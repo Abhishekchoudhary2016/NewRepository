@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MySuite">
+	<tests>
+		<test name="MyTest">
+		<!-- <parameter name="browser" value="firefox"></parameter> -->
+			<classes>
+			
+			<class name="Abhi.pack.selenium.DemoPriorityTest"></class>
+			<exclude name="testMethod3"></exclude>
+			<include name="testMethod5"></include>
+				<!-- <class name="com.project.selenium.DemoAnnotationTest"></class> -->
+				
+			</classes>
+
+		</test>
+		<!-- <test name="MyTest2">
+			<classes>
+				<class name="com.project.selenium.DemoAnnotationTest"></class>
+				<class name="Abhi.pack.selenium.DemoSampleTest"></class>
+			</classes>
+
+		</test> -->
+	</tests>
+</suite>
